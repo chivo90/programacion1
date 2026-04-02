@@ -1,5 +1,5 @@
 print("Hola mundo")
 
-nombre = input("Nmbre: ")
+nombre = input("Nombre: ")
 
 print(f"Hola{nombre}")
